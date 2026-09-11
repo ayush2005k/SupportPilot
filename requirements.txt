@@ -1,0 +1,17 @@
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Vector Search / Embeddings Retrieval
+faiss-cpu>=1.7.4
+
+# LLM & Generation (Google GenAI SDK)
+google-genai>=1.0.0
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Testing & Quality
+pytest>=7.4.0

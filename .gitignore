@@ -1,0 +1,36 @@
+# Data
+data/raw/twcs.csv
+data/index/
+*.faiss
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & System Files
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
