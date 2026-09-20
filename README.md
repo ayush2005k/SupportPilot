@@ -1,4 +1,4 @@
-# SupportPilot ✈️
+# SupportPilot 
 
 > **AI Customer Support Decision & Grounded Response System**  
 > *Hiver SDE Intern Take-Home Project*
